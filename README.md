@@ -1,9 +1,14 @@
-# Origins Mod for Minecraft
+# Jays origin mod plus for Minecraft 1.19x
 
-https://www.curseforge.com/minecraft/mc-mods/origins
+
 
 This is the GitHub repository for the Origins mod, created for Fabric.
-
-If you need help with **creating data packs** for the mod, visit [the official wiki](https://origins.readthedocs.io/). At some point in the future, this wiki will also contain information on how to create an add-on for the mod.
-
-If you want to **report a bug**, please visit [the issue tracker](https://github.com/apace100/origins-fabric/issues). Make sure to check other existing issues first, and post detailed information about which mods and which version you are using, what you would expect to happen, and what happens instead. Also always include the log of your client and the server if possible.
+This id an adon mod for the origin  mod for 1.19+
+I jayjay2028 have made the mod my self and ive like to show everyone an origin mod addon witch adds more origins
+the origins that are in this mod is:
+1. bird
+2. vampire
+3. ghost
+4. drown
+and more but for know there is only 7 origins in this pack so plz spread the word about this mod and thanks to the creator (apace) of the origin mod
+for sharing his code for the origin mod.
