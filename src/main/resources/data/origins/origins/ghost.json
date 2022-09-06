@@ -4,13 +4,12 @@
 		"origins:translucent",
 		"origins:phasing",
 		"origins:invisibility",
-		"origins:burn_in_daylight",
 		"origins:hunger_over_time",
 		"origins:fragile",
 		"origins:phantomize_overlay"
 	],
 	"icon": {
-		"item": "minecraft:phantom_membrane"
+		"item": "minecraft:paper"
 	},
 	"order": 2,
 	"impact": 3
